@@ -1,4 +1,4 @@
-# flutter-app
+# financy-app
 
 A new Flutter project.
 
